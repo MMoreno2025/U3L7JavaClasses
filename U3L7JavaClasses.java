@@ -1,4 +1,15 @@
 //Malia Moreno | 10 October 2024//
+/*
+1) What is the difference between a class and an object?
+- a class is an all encompasing blueprint for code to run while an object is a variable defined and used by classes
+
+2) What happense when you pass an object to a print or println method?
+- Passing an object with print or println shows the object in static void through the method's type. For example, 
+  an integer object will be printed out as an integer
+
+3) What is the scope of a variable in a method? In a class?
+- A variable in a method only exists within the method and nowhere else wher as a variable in a class can exist beyond that
+*/
 package com.mycompany.u3l7javaclasses;
 
 public class U3L7JavaClasses {
